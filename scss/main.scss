@@ -173,7 +173,11 @@ main {
 
     &:hover {
         background: $secondary-color;
-        color: $secondary-color;
+        color: $primary-color;
+        i{
+            color: #fff;
+            
+        }
     }
 }
 .btn-dark {
