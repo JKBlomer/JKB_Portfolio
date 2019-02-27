@@ -6,6 +6,10 @@ Here is my latest responsive portfolio!
  Jessica Katelyn Blomer
  <br>katelynblomer@gmail.com
 
+
+https://jkblomer.github.io/JKB_Portfolio/
+
+
 ### Technology Used
 HTML5, CSS3, Javascript, SASS, NPM
 
